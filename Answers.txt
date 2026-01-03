@@ -1,0 +1,4 @@
+1) 215 ms 
+2) 2.2 requests/min
+3) Yes, all three HTTP requests had failures with GET /delay/1 having the most.
+4) GET /get (236 ms)
